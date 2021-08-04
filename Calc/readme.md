@@ -2,3 +2,5 @@
 # Калькулятор
 Позитивные тесты для каждого метода калькулятора: умножение, деление, вычитание и сложение. 
 Размещение /app/mycalc.py и /tests/test_calc.py. 
+Необходимы установленные библиотеки pytests, requests. 
+В разделе File | Settings | Tools | Python Integrated Tools необходимо выбрать в качестве Tests -> pytest.
